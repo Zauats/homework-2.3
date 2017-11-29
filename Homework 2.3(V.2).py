@@ -55,3 +55,4 @@ def programm_for_one_file(file_name):
 programm_for_one_file("newsafr.json")
 programm_for_one_file("newsfr.json")
 programm_for_one_file("newsit.json")
+programm_for_one_file("newscy.json")
